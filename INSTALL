@@ -1,0 +1,9 @@
+Building mat
+
+See doc/readme-qt.rst for instructions on building mat QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of mat.
+
+See doc/build-*.txt for instructions on building matd,
+the intended-for-services, no-graphical-interface, reference
+implementation of mat.
